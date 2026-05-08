@@ -188,7 +188,7 @@ Testing will be completed when:
 
 --- 
 
-# 14. Approval
+# 11. Approval
 
 | Name               | Role | Status |
 |--------------------|---|---|
