@@ -1,3 +1,5 @@
+# Test Cases – SauceDemo
+
 | Project Name       | SauceDemo Application Testing |
 | ------------------ | ----------------------------- |
 | Client             | N/A                           |
