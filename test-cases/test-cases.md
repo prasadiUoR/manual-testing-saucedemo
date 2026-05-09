@@ -11,11 +11,11 @@
 
 
 | Test Scenario Id | Test Case Scenario Description                 | Priority | No of test cases |
-| ---------------- | ---------------------------------------------- | -------- | ---------------- |
-| TS_001           | Validate working of login functionality        | P1       |                  |
-| TS_002           | Validate the product display page              | P1       |                  |
-| TS_003           | Validate the working of cart functionality     | P1       |                  |
-| TS_004           | Validate the working of checkout functionality | P1       |                  |
+| ---------------- | ---------------------------------------------- | -------- |------------------|
+| TS_001           | Validate working of login functionality        | P1       | 8                |
+| TS_002           | Validate the product display page              | P1       | 8                |
+| TS_003           | Validate the working of cart functionality     | P1       | 6                |
+| TS_004           | Validate the working of checkout functionality | P1       | 4                |
 
 
 ---
